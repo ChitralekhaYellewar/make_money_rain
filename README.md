@@ -1,4 +1,4 @@
-# make_it_rain
+# make_money_rain
 
 A new Flutter project.
 
